@@ -19,6 +19,7 @@
         <outputs/>
         <remote_trigger_id>19cde7c7dba823004d5d5608689619c0</remote_trigger_id>
         <run_as/>
+        <run_with_roles/>
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
@@ -51,6 +52,7 @@
         <on_insert>true</on_insert>
         <on_update>false</on_update>
         <run_flow_in/>
+        <run_on_extended/>
         <run_when_setting/>
         <run_when_user_list/>
         <run_when_user_setting/>
@@ -1451,11 +1453,11 @@
         <sys_created_on>2018-09-19 15:59:17</sys_created_on>
         <sys_id>2fbb6f07dba823004d5d560868961937</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_2d9aa78bdbe423004d5d560868961968_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-09-19 15:59:17</sys_updated_on>
         <url/>
@@ -1474,11 +1476,11 @@
         <sys_created_on>2018-09-19 15:59:17</sys_created_on>
         <sys_id>67bb6f07dba823004d5d56086896194a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_2d9aa78bdbe423004d5d560868961968_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-09-19 15:59:17</sys_updated_on>
         <url/>
@@ -1521,6 +1523,7 @@
         <parent_flow display_value="NeedIt Fulfillment">2d9aa78bdbe423004d5d560868961968</parent_flow>
         <remote_trigger_id/>
         <run_as/>
+        <run_with_roles/>
         <sc_callable>false</sc_callable>
         <status>published</status>
         <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
